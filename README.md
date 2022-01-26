@@ -1,5 +1,7 @@
  # Turtle Logo - MakeCode Arcade Extension
  
+ ![Turtle Logo - MakeCode Arcade Extension](https://raw.githubusercontent.com/mr-coxall/turtle-logo/master/icon.png)
+ 
  See here for more info: https://arcade.makecode.com/pkg/mr-coxall/turtle-logo
 
 
