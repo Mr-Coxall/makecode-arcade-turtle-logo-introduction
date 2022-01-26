@@ -1,7 +1,7 @@
+ # Turtle Logo - MakeCode Arcade Externsion
  
+ See here for more info: https://arcade.makecode.com/pkg/mr-coxall/turtle-logo
 
-
-> Open this page at [https://mr-coxall.github.io/makecode-arcade-turtle-logo-introduction/](https://mr-coxall.github.io/makecode-arcade-turtle-logo-introduction/)
 
 ## Use as Extension
 
