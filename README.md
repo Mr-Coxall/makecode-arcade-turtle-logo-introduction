@@ -1,4 +1,4 @@
- # Turtle Logo - MakeCode Arcade Externsion
+ # Turtle Logo - MakeCode Arcade Extension
  
  See here for more info: https://arcade.makecode.com/pkg/mr-coxall/turtle-logo
 
